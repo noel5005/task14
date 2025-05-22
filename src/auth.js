@@ -1,2 +1,1 @@
-// Authentication feature for task14
-// Auth code
+// registration logic
